@@ -1,4 +1,6 @@
-# Crescendo - Mock eCommerce Clothing Site (Epicodus Group Project - PHP/CSS)
+# Crescendo Clothing - An eCommerce Clothing Site (Epicodus Group Project - PHP/CSS)
+
+# http://crescendo-clothing.herokuapp.com/
 
 #### Requirement: Take the PHP and CSS knowledge we have learned over the past four weeks and create anything we want! - March 11, 2016
 
